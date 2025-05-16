@@ -14,4 +14,5 @@
 <br/><br/>
 <b>Aplicação mercado B3:</b>
 <br/>
-![image](https://github.com/user-attachments/assets/da8c49d6-ae48-4625-ba15-9b2afaa564dd)
+![image](https://github.com/user-attachments/assets/bbb96960-2e5b-476f-9742-1a5e5be07713)
+
